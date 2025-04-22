@@ -1,0 +1,54 @@
+[
+  {
+    "login": "kauan",
+    "pin": "1234"
+  },
+  {
+    "login": "maria",
+    "pin": "senha1234"
+  },
+  {
+    "login": "luizinha",
+    "pin": "amor33."
+  },
+  {
+    "login": "admin",
+    "pin": "admin123"
+  },
+  {
+    "login": "joao_p",
+    "pin": "joaop#2024"
+  },
+  {
+    "login": "ana.clara",
+    "pin": "anaC123!"
+  },
+  {
+    "login": "gustavo99",
+    "pin": "gustavo"
+  },
+  {
+    "login": "camila_dev",
+    "pin": "codeCamila"
+  },
+  {
+    "login": "victor_silva",
+    "pin": "vicTor2023"
+  },
+  {
+    "login": "bruna123",
+    "pin": "brunasenha"
+  },
+  {
+    "login": "kauan123",
+    "pin": "lopes123"
+  },
+  {
+    "login": "lorenaSilva",
+    "pin": "cachorro"
+  },
+  {
+    "login": "lorenzoferreira",
+    "pin": "lorenzo331"
+  }
+]
